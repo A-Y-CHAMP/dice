@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DICE</string>
+    <string name="strt">START !</string>
+    <string name="empty"> </string>
+    <string name="intro">PRESS THE START TO ROLL DICE</string>
+</resources>
